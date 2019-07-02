@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E8CC-7B24
+
+ Directory of C:\Users\User\Desktop\Project
+
+02/07/2019  10:01    <DIR>          .
+02/07/2019  10:01    <DIR>          ..
+02/07/2019  10:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  192,812,253,184 bytes free
